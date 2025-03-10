@@ -1,8 +1,10 @@
 ################################################################
-# This is the code for producing Table 2 in the article
-# Optimizing calibration designs with uncertainty in abilities
-# published in British Journal of Mathematical and Statistical
-# Psychology
+### Computations for Figure 2, project OPTIC - OPTimal Item Calibration
+### 2025-03-07
+### Supplementary material for publication: 
+### Bjermo J, Fackle-Fornius E, Miller F (2025).
+### Optimizing calibration designs with uncertainty in abilities.
+### British Journal of Mathematical and Statistical Psychology.
 ###############################################################
 
 # load the mirt package for item parameter and ability estimation
