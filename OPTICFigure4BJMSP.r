@@ -1,5 +1,5 @@
 ########################################################################################################################################
-### Computations for Figure 4, project OPTIC - OPImal Item Calibration
+### Computations for Figure 4, project OPTIC - OPTimal Item Calibration
 ### 2024-12-31
 ### Supplementary material for publication: 
 ### Bjermo J, Fackle-Fornius E, Miller F (2025).
